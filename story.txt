@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Once there was a very lonely leprachaun named Peter. Peter was very sad and lonely because nobody wanted to be with him due to his lack of gold. One dark, lonely night, Peter knew one thing and one thing only: he must set off to find his lost pot of gold.
+=======
+Once there was a very lonely leprachaun named Peter. Peter was very sad and lonely because nobody wanted to be with him due to his lack of gold. On a cold winter night, Peter left his house with one quest: to find his pot of gold he lost long ago.
+>>>>>>> conflict
